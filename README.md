@@ -1,4 +1,4 @@
-# Music-Box
+# Music Box
 
 ## Goals
 
