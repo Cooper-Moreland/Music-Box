@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Goals](#Goals)
 * [Pre-Planning Document](#Pre-Planning-Document)
+* [Onshape Pre-Design](#Onshape-Pre-Design)
 
 ## Goals
 
