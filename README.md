@@ -14,7 +14,7 @@ The goal of this project is to create a music box which can play music at the pu
 
 
 
-## on shape pre design 
+## Onshape Pre-Design 
 I Haven't fully finished but I started to design the box on onshape 
 (https://cvilleschools.onshape.com/documents/4070da3629a921a665d7777d/w/15ceae94f1d3e58bcfee66e3/e/b3ec9e57a38d3c9760e5e44e) 
 
