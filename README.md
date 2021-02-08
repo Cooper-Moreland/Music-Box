@@ -4,6 +4,7 @@
 * [Goals](#Goals)
 * [Pre-Planning Document](#Pre-Planning-Document)
 * [Onshape Pre-Design](#Onshape-Pre-Design)
+* [Psuedo Code](#Psuedo-Code)
 
 ## Goals
 
@@ -16,7 +17,12 @@ The goal of this project is to create a music box which can play music at the pu
 
 
 ## Onshape Pre-Design 
+
 I Haven't fully finished but I started to design the box on onshape 
 (https://cvilleschools.onshape.com/documents/4070da3629a921a665d7777d/w/15ceae94f1d3e58bcfee66e3/e/b3ec9e57a38d3c9760e5e44e) 
 
 I also found A 3d printing of out ballerina which is your figure head for the project on (https://www.thingiverse.com/thing:2679412)
+
+## Psuedo Code
+
+[Code in Arduino Editor](https://create.arduino.cc/editor/wmorela54/9488f8ee-c676-4620-bbf1-e6c64f40eed0/preview)
