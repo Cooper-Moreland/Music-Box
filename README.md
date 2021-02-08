@@ -18,7 +18,7 @@ The goal of this project is to create a music box which can play music at the pu
 
 ## Onshape Pre-Design 
 
-I Haven't fully finished but I started to design the box on Onshape.[Link to Music Box](https://cvilleschools.onshape.com/documents/4070da3629a921a665d7777d/w/15ceae94f1d3e58bcfee66e3/e/b3ec9e57a38d3c9760e5e44e) 
+I Haven't fully finished but I started to design the box on Onshape - [Link to Music Box](https://cvilleschools.onshape.com/documents/4070da3629a921a665d7777d/w/15ceae94f1d3e58bcfee66e3/e/b3ec9e57a38d3c9760e5e44e) 
 
 I also found A 3d printing of out ballerina which is your figure head for the project on - [Ballerina](https://www.thingiverse.com/thing:2679412)
 
