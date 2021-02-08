@@ -24,4 +24,4 @@ I also found A 3d printing of out ballerina which is your figure head for the pr
 
 ## Psuedo Code
 
-[Code in Arduino Editor](https://create.arduino.cc/editor/wmorela54/9488f8ee-c676-4620-bbf1-e6c64f40eed0/preview)
+This is the code I will be using to play the Pink Panther Theme on the music box [Code in Arduino Editor](https://create.arduino.cc/editor/wmorela54/9488f8ee-c676-4620-bbf1-e6c64f40eed0/preview)
