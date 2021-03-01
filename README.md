@@ -29,4 +29,4 @@ This is the code I'll be using to play the Pink Panther Theme on the music box, 
 
 ## Info
 
-I was able to accomplish a working code for playing the music and am almost finished with linking the music start to a button press. We re both close to being done and I expect for us to both finish on time.
+I was able to accomplish a working code for playing the music and am almost finished with linking the music start to a button press. We're both close to being done and I expect for us to both finish on time.
