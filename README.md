@@ -5,6 +5,7 @@
 * [Pre-Planning Document](#Pre-Planning-Document)
 * [Onshape Pre-Design](#Onshape-Pre-Design)
 * [Psuedo Code](#Psuedo-Code)
+* [Info](#Info)
 
 ## Goals
 
@@ -25,3 +26,7 @@ I also found A 3d printing of out ballerina which is your figure head for the pr
 ## Psuedo Code
 
 This is the code I'll be using to play the Pink Panther Theme on the music box, I also added the Psuedo code which shows what the code will do on the side - [Code in Arduino Editor](https://create.arduino.cc/editor/wmorela54/9488f8ee-c676-4620-bbf1-e6c64f40eed0/preview)
+
+## Info
+
+I was able to accomplish a working code for playing the music and am almost finished with linking the music start to a button press. We re both close to being done and I expect for us to both finish on time.
