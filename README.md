@@ -37,6 +37,9 @@ Cooper: When I return from Spring break, the first thing I'm going to do is work
 
 # Onshape design 
 I've gotten most things with my design  I am behind do to the fact  had some internet issues so i'm hoping to go into office hours and get a little help ve also as to my design by adding a hole on the side for the usb on the arduino to go through  should be done soon I just need do a couple more things and a little help but I’ve made myself some time to catch up and possibly finish during or before next class,but knowing myself I'm horrble at asking for help . [Link to Music Box](https://cvilleschools.onshape.com/documents/4070da3629a921a665d7777d/w/15ceae94f1d3e58bcfee66e3/e/b3ec9e57a38d3c9760e5e44e) 
+
+
+# spring break 
 everything  is wrapping up just putting in designs for the final center peace and maybe some last mintue checks over break and should be all set to go
 when we return form spring break i just one check over my screw and make sure everything is the right size
 
