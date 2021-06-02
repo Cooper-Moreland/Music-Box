@@ -48,6 +48,6 @@ I've gotten most things with my design  I am behind do to the fact  had some int
 Everything  is wrapping up just putting in designs for the final center peace and maybe some last mintue checks over break and should be all set to go
 when we return form spring break i just one check over my screw and make sure everything is the right size.
 
-#After Completion
+# After Completion
 
 I changed the activation for the music to start from a puch button to a photo resistor. The code had to be adjusted a little bit so the link is once again here --> [Code.] (https://create.arduino.cc/editor/wmorela54/9488f8ee-c676-4620-bbf1-e6c64f40eed0/preview) Now the pink panther theme starts when the music box is opened.
