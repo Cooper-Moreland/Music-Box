@@ -6,6 +6,9 @@
 * [Onshape Pre-Design](#Onshape-Pre-Design)
 * [Psuedo Code](#Psuedo-Code)
 * [Info](#Info)
+* [Onshpae Design](#Onshape-Design)
+* [Spring Break](#Spring-Break)
+* [After Completion](#After-Completion)
 
 ## Goals
 
